@@ -2,7 +2,7 @@
 
 /**
  * @brief Esta es la funcion de configuracion del dispositivo
- * 
+ * Hi
  */
 void setup() {
   pinMode(2, OUTPUT);  //Coloco el pin 2 como salida
